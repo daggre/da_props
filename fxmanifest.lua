@@ -1,3 +1,5 @@
+--- Copyright © 2024 Joshua Nelson
+
 fx_version "adamant"
 author 'daggre_actual'
 game "rdr3"

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bsCentre x="0.0017100573" y="-0.09763801" z="0.026848912" />
+      <bsRadius value="4.3639517" />
+      <bbMin x="-2.793523" y="-2.8535867" z="-1.8798478" />
+      <bbMax x="2.7969432" y="2.6583107" z="1.9335456" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>da_wikup02_blanket</name>
+      <textureDictionary>da_wikup02</textureDictionary>
+      <physicsDictionary>da_wikup02_blanket</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>da_wikup02_blanket</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>da_wikup02_blanket</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
