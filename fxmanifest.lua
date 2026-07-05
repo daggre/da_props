@@ -11,3 +11,5 @@ files {
 }
 
 data_file 'DLC_ITYP_REQUEST' 'stream/*.ytyp'
+
+client_script 'models_cl.lua'
