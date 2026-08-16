@@ -50,4 +50,4 @@ Models by **daggre_actual**.
 
 ## License
 
-See repository.
+[MIT](LICENSE) © daggre_actual
